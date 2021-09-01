@@ -1,0 +1,1581 @@
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\App.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\MainPage.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eProdaja.Mobile.UWP.xr.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eProdaja.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eProdaja.Mobile.UWP.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\resources.pri
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\AppxManifest.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Core\eProdaja.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.build.appxrecipe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Flurl.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Flurl.Http.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\clrcompression.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.AppContext.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Buffers.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Collections.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Composition.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ComponentModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Configuration.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Console.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Core.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Data.Common.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Data.SqlClient.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Data.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Drawing.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Globalization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.Compression.FileSystem.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.Compression.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.Pipes.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.Ports.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.IO.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Http.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.HttpListener.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Mail.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Ping.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Requests.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Security.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.ServicePoint.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.Sockets.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.WebClient.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.WebProxy.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Net.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Numerics.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ObjectModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Private.Uri.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Private.Xml.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Private.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.Context.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Reflection.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Resources.Reader.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Resources.Writer.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Runtime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.AccessControl.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Claims.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Principal.Windows.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.Principal.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.SecureString.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Security.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ServiceProcess.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.Thread.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.Timer.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Threading.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Transactions.Local.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Transactions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.ValueTuple.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Web.HttpUtility.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Web.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Windows.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\System.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\WindowsBase.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\mscorlib.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\netstandard.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\bin\x86\Debug\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\App.g.i.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\App.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\MainPage.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\App.xaml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\MainPage.xaml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\App.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\MainPage.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\XamlC.stamp
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\eProdaja.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\eProdaja.Mobile.UWP.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.SqlClient.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.FileVersionInfo.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Process.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TextWriterTraceListener.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TraceSource.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Drawing.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.DriveInfo.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.Watcher.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.MemoryMappedFiles.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Pipes.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Ports.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.HttpListener.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Mail.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Ping.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Security.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.ServicePoint.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebClient.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.Linq.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.TypeExtensions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Resources.Writer.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.WindowsRuntime.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.AccessControl.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Csp.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Principal.Windows.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Thread.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.Transactions.Local.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\priconfig.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\resources.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\pri.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\qualifiers.txt
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160643180000000.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\App.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\MainPage.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.xr.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\resources.pri
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\AppxManifest.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\eRestoran.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.build.appxrecipe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.Http.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\clrcompression.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.AppContext.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Buffers.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Composition.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Configuration.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Console.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Core.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.Common.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.SqlClient.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.FileSystem.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Pipes.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Ports.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.HttpListener.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Mail.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Ping.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Requests.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Security.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.ServicePoint.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Sockets.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebClient.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebProxy.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ObjectModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Uri.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Context.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Reader.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Writer.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.AccessControl.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Claims.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.Windows.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.SecureString.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceProcess.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Thread.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Timer.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.Local.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ValueTuple.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.HttpUtility.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Windows.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\WindowsBase.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\mscorlib.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\netstandard.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.i.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xaml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xaml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xbf
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlC.stamp
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.SqlClient.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.FileVersionInfo.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Process.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TextWriterTraceListener.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TraceSource.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Drawing.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.DriveInfo.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.Watcher.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.MemoryMappedFiles.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Pipes.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Ports.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.HttpListener.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Mail.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Ping.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Security.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.ServicePoint.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebClient.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.Linq.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.TypeExtensions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Resources.Writer.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.WindowsRuntime.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.AccessControl.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Csp.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Principal.Windows.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Thread.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Transactions.Local.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160643180000000.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\App.xbf
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\MainPage.xbf
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.xr.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\resources.pri
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\AppxManifest.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\eRestoran.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.build.appxrecipe
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.Http.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\clrcompression.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.AppContext.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Buffers.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Composition.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Configuration.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Console.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Core.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.Common.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.SqlClient.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.FileSystem.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Pipes.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Ports.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.HttpListener.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Mail.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Ping.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Requests.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Security.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.ServicePoint.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Sockets.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebClient.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebProxy.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ObjectModel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Uri.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Context.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Reader.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Writer.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.AccessControl.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Claims.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.Windows.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.SecureString.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceProcess.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Thread.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Timer.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.Local.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ValueTuple.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.HttpUtility.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Windows.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Linq.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\WindowsBase.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\mscorlib.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\netstandard.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.i.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xaml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xaml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xbf
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xbf
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlC.stamp
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.exe
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.SqlClient.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.FileVersionInfo.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Process.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TextWriterTraceListener.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TraceSource.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Drawing.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.DriveInfo.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.Watcher.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.MemoryMappedFiles.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Pipes.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Ports.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.HttpListener.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Mail.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Ping.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Security.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.ServicePoint.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebClient.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.Linq.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.TypeExtensions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Resources.Writer.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.WindowsRuntime.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.AccessControl.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Csp.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Principal.Windows.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Thread.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Transactions.Local.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160643180000000.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs\Acr.UserDialogs.xr.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls\Coding4Fun.Toolkit.Controls.xr.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Prism.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Prism.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Stripe.net.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Stripe.net.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Memory.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Permissions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Acr.UserDialogs.pri.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Coding4Fun.Toolkit.Controls.pri.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Coding4Fun.Toolkit.pri.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Prism\en\Prism.Properties.Resources.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Memory.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Permissions.SR.resw
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.en.resfiles
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.en.resfiles.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csprojAssemblyReference.cache
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.i.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xaml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xaml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xbf
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xbf
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs\Acr.UserDialogs.xr.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls\Coding4Fun.Toolkit.Controls.xr.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\App.xbf
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\MainPage.xbf
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.xr.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.exe
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\resources.pri
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\AppxManifest.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\eRestoran.Mobile.UWP.exe
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.build.appxrecipe
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.Http.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Prism.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Prism.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\clrcompression.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.AppContext.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Buffers.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Composition.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Configuration.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Console.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Core.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.Common.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.SqlClient.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Process.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.FileSystem.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Pipes.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Ports.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.HttpListener.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Mail.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Ping.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Requests.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Security.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.ServicePoint.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebClient.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebProxy.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ObjectModel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Uri.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.Linq.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Reader.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Writer.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.AccessControl.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Claims.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.Windows.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.SecureString.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceProcess.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Thread.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.ThreadPool.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.Local.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ValueTuple.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.HttpUtility.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Windows.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\WindowsBase.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\mscorlib.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\netstandard.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Stripe.net.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Stripe.net.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Memory.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Permissions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CoreCompileInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlC.stamp
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CopyComplete
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Acr.UserDialogs.pri.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Coding4Fun.Toolkit.Controls.pri.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Coding4Fun.Toolkit.pri.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.exe
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Prism\en\Prism.Properties.Resources.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Data.SqlClient.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.FileVersionInfo.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Process.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TextWriterTraceListener.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Diagnostics.TraceSource.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Drawing.Primitives.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.DriveInfo.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.Watcher.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.MemoryMappedFiles.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Pipes.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.IO.Ports.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.HttpListener.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Mail.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Ping.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Security.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.ServicePoint.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebClient.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.Linq.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Private.Xml.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Reflection.TypeExtensions.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Resources.Writer.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.WindowsRuntime.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.AccessControl.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Csp.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Principal.Windows.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.Thread.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Transactions.Local.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Memory.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Security.Permissions.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.en.resfiles
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.en.resfiles.intermediate
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160643180000000.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs\Acr.UserDialogs.xr.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls\Coding4Fun.Toolkit.Controls.xr.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\App.xbf
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\MainPage.xbf
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.xr.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.exe
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\resources.pri
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\AppxManifest.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Core\eRestoran.Mobile.UWP.exe
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.UWP.build.appxrecipe
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Acr.UserDialogs.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.Controls.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Coding4Fun.Toolkit.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Flurl.Http.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Prism.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Prism.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\clrcompression.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.AppContext.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Buffers.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Collections.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Composition.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ComponentModel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Configuration.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Console.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Core.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.Common.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.SqlClient.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Data.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Process.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.TraceSource.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Drawing.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Globalization.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.FileSystem.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Compression.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.Watcher.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.MemoryMappedFiles.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Pipes.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.Ports.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.IO.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Linq.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Http.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.HttpListener.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Mail.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Ping.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Requests.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Security.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.ServicePoint.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.Sockets.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebClient.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebProxy.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Net.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Numerics.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ObjectModel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Uri.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.Linq.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Private.Xml.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Context.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Reflection.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Reader.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Resources.Writer.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.AccessControl.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Claims.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Csp.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.Windows.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Principal.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.SecureString.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceModel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ServiceProcess.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.Encoding.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Thread.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.ThreadPool.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Timer.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.Local.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Transactions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.ValueTuple.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.HttpUtility.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Web.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Windows.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Linq.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XPath.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Xml.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\WindowsBase.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\mscorlib.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\netstandard.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Stripe.net.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Stripe.net.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Memory.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Security.Permissions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Mobile.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\bin\x86\Debug\eRestoran.Model.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csprojAssemblyReference.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.i.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xaml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xaml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\App.xbf
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MainPage.xbf
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CoreCompileInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\XamlC.stamp
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.csproj.CopyComplete
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Acr.UserDialogs.pri.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Coding4Fun.Toolkit.Controls.pri.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Coding4Fun.Toolkit.pri.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.exe
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\eRestoran.Mobile.UWP.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.en.resfiles
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\resources.en.resfiles.intermediate
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160643180000000.json

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:vm="clr-namespace:eRestoran.Mobile.ViewModels"
+             mc:Ignorable="d"
+             Title="Moj profil"
+             x:Class="eRestoran.Mobile.Views.EditProfilPage">
+    <ContentPage.BindingContext>
+        <vm:EditProfileViewModel></vm:EditProfileViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Padding="10" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+            <Label>Ime</Label>
+            <Entry Text="{Binding Ime}"></Entry>
+            <Label>Prezime</Label>
+            <Entry Text="{Binding Prezime}"></Entry>
+
+            <Label>Telefon</Label>
+            <Entry  IsEnabled="false"    Text="{Binding Telefon}"></Entry>
+            <Label>Email</Label>
+            <Entry IsEnabled="false"   Text="{Binding Email}"></Entry>
+            <Label>Username</Label>
+            <Entry IsEnabled="false" Text="{Binding Username}"></Entry>
+            <Label> Password</Label>
+            <Entry Text="{Binding Password}" IsPassword="True"></Entry>
+            <Label>Confirm password</Label>
+            <Entry Text="{Binding PasswordConfirmation}" IsPassword="True"></Entry>
+            <Button Command="{Binding SpremiCommand}" Text="Spremi"/>
+        </StackLayout>
+    </ContentPage.Content>
+   </ContentPage>

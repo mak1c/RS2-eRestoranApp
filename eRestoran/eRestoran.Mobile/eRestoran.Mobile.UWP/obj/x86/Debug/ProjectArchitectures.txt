@@ -1,0 +1,1 @@
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile.UWP\eRestoran.Mobile.UWP.csproj;x86

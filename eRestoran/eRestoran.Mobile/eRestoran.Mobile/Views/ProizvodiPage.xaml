@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:vm="clr-namespace:eRestoran.Mobile.ViewModels" xmlns:converters="clr-namespace:eRestoran.Mobile.Converters"
+             mc:Ignorable="d"
+             x:Class="eRestoran.Mobile.Views.ProizvodiPage">
+    <ContentPage.BindingContext>
+        <vm:ProizvodiViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Resources>
+        <converters:ImageConverter x:Key="imgConv"></converters:ImageConverter>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Proizvodi"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Margin="5" FontAttributes="Bold" FontSize="15" Text="ODABERI KATEGORIJU!"></Label>
+            <Picker ItemsSource="{Binding KategorijaProizvodaList}" SelectedItem="{Binding SelectedKategorijaProizvoda}" ItemDisplayBinding="{Binding Naziv}"></Picker>
+            <ListView ItemsSource="{Binding ProizvodiList}" ItemSelected="ListView_OnItemSelected" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10" Orientation="Horizontal">
+                                
+                                <!--<StackLayout >
+                                    <Image Source="{Binding Slika,Converter={StaticResource imgConv}}"></Image>
+                                </StackLayout>-->
+                                <StackLayout Orientation="Horizontal"  HeightRequest="50" Grid.Column="0">
+                                    <Image Source="{Binding Slika,Converter={StaticResource imgConv}}" WidthRequest="92" Aspect="Fill"  />
+                                </StackLayout>
+                                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label Text="{Binding Naziv}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" />
+                                    <Label Text="{Binding Cijena, StringFormat='{0} BAM'}"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal" VerticalOptions="End" 
+              >
+                                    <Label Text="{Binding VrijemePripremanja, StringFormat='Priprema: {0} min'}"></Label>
+                                </StackLayout>
+                               
+                            </StackLayout>
+                        </ViewCell>
+                        <!--<ImageCell Text="{Binding Naziv}" TextColor="Purple" Detail="{Binding Cijena}" ImageSource="{Binding Slika}"/>-->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

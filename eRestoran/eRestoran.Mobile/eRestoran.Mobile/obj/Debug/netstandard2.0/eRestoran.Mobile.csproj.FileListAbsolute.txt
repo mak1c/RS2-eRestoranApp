@@ -1,0 +1,188 @@
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.deps.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\bin\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfoInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfo.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\ProizvodiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eProdaja.Mobile\eProdaja.Mobile\obj\Debug\netstandard2.0\Views\ProizvodDetaljiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.deps.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodDetaljiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfoInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfo.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.deps.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodDetaljiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfoInputs.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfo.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestDetaljiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\DovrsiNarudzbu.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbeAllPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\StripePaymentGatewayPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaDetaljiPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\RegistracijaPage.xaml.g.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\EditProfilPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.deps.json
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csprojAssemblyReference.cache
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\DovrsiNarudzbu.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\EditProfilPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaDetaljiPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbeAllPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestDetaljiPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodDetaljiPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodiPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\RegistracijaPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\StripePaymentGatewayPage.xaml.g.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CoreCompileInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfoInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfo.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CopyComplete
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csprojAssemblyReference.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\DovrsiNarudzbu.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\EditProfilPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaDetaljiPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbeAllPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestDetaljiPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodDetaljiPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodiPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\RegistracijaPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\StripePaymentGatewayPage.xaml.g.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CoreCompileInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfoInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfo.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.deps.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CopyComplete
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.deps.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Mobile.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csprojAssemblyReference.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\DovrsiNarudzbu.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\EditProfilPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaDetaljiPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbaPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NarudzbeAllPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestDetaljiPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ObavijestiPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodDetaljiPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\ProizvodiPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\RegistracijaPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\Views\StripePaymentGatewayPage.xaml.g.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CoreCompileInputs.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfoInputs.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.AssemblyInfo.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.csproj.CopyComplete
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\ref\eRestoran.Mobile.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Mobile\eRestoran.Mobile\obj\Debug\netstandard2.0\eRestoran.Mobile.pdb

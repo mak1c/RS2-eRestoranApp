@@ -1,0 +1,989 @@
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Form1.resources
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Kategorija.frmDodajKategoriju.resources
+C:\Users\User\source\repos\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.pdb
+E:\12345678\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Kategorija.frmDodajKategoriju.resources
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmNoviKorisnik.resources
+E:\12345678\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmKorisnici.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.Licensing.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnikProfil.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmNoviKorisnik.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmKorisnici.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmNovaObavijest.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Kategorija.frmDodajKategoriju.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmProizvodi.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.proba.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.ProizvodItem.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.licenses
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.Licensing.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnikProfil.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmNoviKorisnik.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmKorisnici.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmNovaObavijest.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Kategorija.frmDodajKategoriju.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmProizvodi.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.proba.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.ProizvodItem.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.licenses
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.Licensing.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Blob.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnikProfil.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmNoviKorisnik.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmKorisnici.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmNovaObavijest.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Kategorija.frmDodajKategoriju.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmProizvodi.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.proba.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.ProizvodItem.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.licenses
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Informacije.frmInformacije.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijenti.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijentProfil.resources
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Izvjestaji.frmIzvjestaj.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Informacije.frmInformacije.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Izvjestaji.frmIzvjestaj.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijenti.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijentProfil.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnikProfil.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmNoviKorisnik.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmKorisnici.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmNovaObavijest.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Kategorija.frmDodajKategoriju.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmProizvodi.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.proba.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.ProizvodItem.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.licenses
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\netstandard.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.AppContext.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Console.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Data.Common.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Compression.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Http.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Ping.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Requests.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Security.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.ObjectModel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Claims.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Principal.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.ValueTuple.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.Licensing.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\netstandard.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.AppContext.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.Concurrent.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.Specialized.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Console.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Data.Common.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Process.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Drawing.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.Calendars.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Compression.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Pipes.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Expressions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Parallel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Queryable.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Http.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.NameResolution.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Ping.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Requests.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Security.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Sockets.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebSockets.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ObjectModel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.Reader.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.Writer.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Handles.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Numerics.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Claims.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Principal.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.SecureString.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.Encoding.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Overlapped.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Tasks.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Thread.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Timer.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ValueTuple.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XDocument.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XPath.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.Licensing.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Informacije.frmInformacije.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Izvjestaji.frmIzvjestaj.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijenti.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijentProfil.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnikProfil.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmKorisnici.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmNovaObavijest.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmProizvodi.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.ProizvodItem.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.licenses
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Izvjestaji.frmIzvjestajKategorijeProizvodi.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin2.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe.config
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.exe
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.WinUI.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\netstandard.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.AppContext.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.Concurrent.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Collections.Specialized.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Console.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Data.Common.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Process.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Drawing.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.Calendars.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Globalization.Extensions.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Compression.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.Pipes.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Expressions.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Parallel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Linq.Queryable.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Http.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.NameResolution.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Ping.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Requests.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Security.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.Sockets.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Net.WebSockets.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ObjectModel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.Extensions.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Reflection.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.Reader.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Resources.Writer.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Extensions.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Handles.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Numerics.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Claims.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.Principal.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Security.SecureString.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.Encoding.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Overlapped.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Tasks.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Thread.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Threading.Timer.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ValueTuple.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XDocument.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XPath.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.Licensing.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\eRestoran.Model.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Flurl.Http.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csprojAssemblyReference.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.config
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmIndex.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Informacije.frmInformacije.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Izvjestaji.frmIzvjestaj.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Izvjestaji.frmIzvjestajKategorijeProizvodi.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijenti.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKlijentProfil.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Korisnici.frmKorisnikProfil.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmKorisnici.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.frmLogin2.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbaDetalji.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Narudzbe.frmNarudzbe.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmNovaObavijest.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Obavijest.frmObavijest.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmKategorije.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.frmProizvodi.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Proizvodi.ProizvodItem.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.Properties.Resources.resources
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.GenerateResource.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe.licenses
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CoreCompileInputs.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.csproj.CopyComplete
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.exe
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WinUI\obj\Debug\eRestoran.WinUI.pdb

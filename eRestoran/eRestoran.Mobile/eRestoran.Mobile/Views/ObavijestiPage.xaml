@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:vm="clr-namespace:eRestoran.Mobile.ViewModels"
+             mc:Ignorable="d"
+             x:Class="eRestoran.Mobile.Views.ObavijestiPage">
+    <ContentPage.BindingContext>
+        <vm:ObavijestiViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView ItemsSource="{Binding ObavijestiList}" ItemSelected="ListView_OnItemSelected"  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell >
+                            <Frame CornerRadius="3"  OutlineColor="CadetBlue" Padding="8" Margin="5">
+                                <StackLayout Padding="10" Orientation="Vertical">
+
+                                <StackLayout Orientation="Horizontal">
+                                    <Label  VerticalTextAlignment="Center" HorizontalTextAlignment="Start"  Text="{Binding Naslov}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="14" />
+                                    <Label  VerticalTextAlignment="Center" HorizontalTextAlignment="End" Text="{Binding DatumObjave}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="14" />
+                                </StackLayout>
+                                <StackLayout HeightRequest="35" HorizontalOptions="StartAndExpand">
+                                    <Label  VerticalOptions="Start" Text="{Binding Sadrzaj}" 
+                                LineBreakMode="CharacterWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="12"  />
+                                </StackLayout>
+
+
+
+                            </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                        <!--<ImageCell Text="{Binding Naziv}" TextColor="Purple" Detail="{Binding Cijena}" ImageSource="{Binding Slika}"/>-->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

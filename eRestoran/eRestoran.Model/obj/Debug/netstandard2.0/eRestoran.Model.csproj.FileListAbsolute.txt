@@ -1,0 +1,27 @@
+C:\rs2\zadnje\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csproj.CoreCompileInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+C:\rs2\zadnje\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+C:\rs2\zadnje\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+C:\rs2\zadnje\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csproj.CoreCompileInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csproj.CoreCompileInputs.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb

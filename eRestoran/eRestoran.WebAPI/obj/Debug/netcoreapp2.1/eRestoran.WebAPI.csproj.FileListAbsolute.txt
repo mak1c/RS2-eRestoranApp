@@ -1,0 +1,167 @@
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\Users\User\source\repos\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+E:\12345678\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+E:\12345678\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+E:\12345678\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+D:\rs2\veryije\Prijava 31.05.21\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+D:\rs2\veryije\Prijava 31.05.21 - Copy\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\rs2\zadnje\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+D:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.deps.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.runtimeconfig.dev.json
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\bin\Debug\netcoreapp2.1\eRestoran.Model.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csprojAssemblyReference.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CoreCompileInputs.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorAssemblyInfo.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfoInputs.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.AssemblyInfo.cs
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.RazorTargetAssemblyInfo.cache
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.csproj.CopyComplete
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.dll
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.pdb
+C:\MIGRACIJA RS2\eRestoran\eRestoran.WebAPI\obj\Debug\netcoreapp2.1\eRestoran.WebAPI.genruntimeconfig.cache

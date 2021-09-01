@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:vm="clr-namespace:eRestoran.Mobile.ViewModels"
+             mc:Ignorable="d"
+             Title="Registracija"
+             x:Class="eRestoran.Mobile.Views.RegistracijaPage">
+    
+    <ContentPage.BindingContext>
+        <vm:RegistracijaViewModel></vm:RegistracijaViewModel>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout Padding="10" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+            <Label>Ime*</Label>
+            <Entry Text="{Binding Ime}"></Entry>
+            <Label>Prezime*</Label>
+            <Entry Text="{Binding Prezime}"></Entry>
+         
+            <Label>Telefon</Label>
+            <Entry Placeholder="062-000-000" Text="{Binding Telefon}"></Entry>
+            <Label>Email*</Label>
+            <Entry Placeholder="example@email.com" Text="{Binding Email}"></Entry>
+            <Label>Username</Label>
+            <Entry Text="{Binding Username}"></Entry>
+            <Label>Password*</Label>
+            <Entry Text="{Binding Password}" IsPassword="True"></Entry>
+            <Label>Confirm password*</Label>
+            <Entry Text="{Binding PasswordConfirmation}" IsPassword="True"></Entry>
+            <Button Command="{Binding RegisterCommand}" Text="Register"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

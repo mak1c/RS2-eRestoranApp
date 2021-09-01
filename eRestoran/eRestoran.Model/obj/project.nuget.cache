@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQYLKglZKHEsEPLHz7W3Jhg9GWeopncPC3Gqqap5Q0F4P/GjHLqH/HXVhzcPwFbbnG7gV5oOkJPlHfit17Gufg==",
+  "success": true,
+  "projectFilePath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Rus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Rus\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

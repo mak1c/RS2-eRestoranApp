@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eProdaja.Mobile\\eProdaja.Mobile\\eProdaja.Mobile.csproj": {}
+  },
+  "projects": {
+    "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eProdaja.Mobile\\eProdaja.Mobile\\eProdaja.Mobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eProdaja.Mobile\\eProdaja.Mobile\\eProdaja.Mobile.csproj",
+        "projectName": "eProdaja.Mobile",
+        "projectPath": "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eProdaja.Mobile\\eProdaja.Mobile\\eProdaja.Mobile.csproj",
+        "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
+        "outputPath": "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eProdaja.Mobile\\eProdaja.Mobile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
+                "projectPath": "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.3.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.4.0.991265, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+        "projectName": "eRestoran.Model",
+        "projectPath": "D:\\rs2\\veryije\\Prijava 31.05.21\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

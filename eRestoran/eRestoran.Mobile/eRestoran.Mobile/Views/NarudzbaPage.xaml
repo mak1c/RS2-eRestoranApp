@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:vm="clr-namespace:eRestoran.Mobile.ViewModels" xmlns:converters="clr-namespace:eRestoran.Mobile.Converters"
+             mc:Ignorable="d"
+              Title="Korpa"
+             x:Class="eRestoran.Mobile.Views.NarudzbaPage">
+    <ContentPage.BindingContext>
+        <vm:NarudzbaViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Resources>
+        <converters:ImageConverter x:Key="imgConv"></converters:ImageConverter>
+    </ContentPage.Resources>
+    <ContentPage.Content  >
+      
+         
+        
+        <StackLayout>
+            
+        
+        <ListView HorizontalOptions="FillAndExpand" HasUnevenRows="True" BackgroundColor="White" ItemsSource="{Binding NarudzbaList}">
+            <ListView.Header>
+                <ContentView Padding="0,5" BackgroundColor="White">
+                    <Label FontSize="Large" TextColor="BlueViolet"
+                   Text="Vaša korpa:" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+                </ContentView>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                                <!--<ColumnDefinition  />
+                                <ColumnDefinition Width="92" />-->
+                            </Grid.ColumnDefinitions>
+                            <Frame CornerRadius="5"  OutlineColor="CadetBlue" Padding="10">
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Grid.Column="0">
+                                    <StackLayout HorizontalOptions="Start" VerticalOptions="Center"  Padding="5"  >
+                                        <Image Source="{Binding Proizvod.Slika,Converter={StaticResource imgConv}}" WidthRequest="92" Aspect="AspectFit"  />
+                                    </StackLayout>
+                                    <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="5">
+                                        <Label FontSize="17"  Text="{Binding Proizvod.Naziv}" />
+                                        <Label FontSize="12" Text="{Binding Kolicina, StringFormat='Količina: {0}  kom'}" />
+                                    </StackLayout>
+                                    <StackLayout WidthRequest="75">
+                                        
+                                    </StackLayout>
+                                    <StackLayout Orientation="Vertical"  VerticalOptions="Center"  Padding="5" >
+                                        <Label Text="" FontSize="17"></Label>
+                                        <Label  FontSize="12"  Text="{Binding Cijenaa, StringFormat='Cijena: {0} BAM'}" />
+                                    </StackLayout>
+                                </StackLayout>
+                          
+                            </Frame>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+            <StackLayout Orientation="Vertical">
+                <Frame CornerRadius="3"  OutlineColor="CadetBlue" Padding="10" Margin="15">
+                    <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                        <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" >
+                            
+                            <Label FontSize="17"  Text="RAČUN: " ></Label>
+                            <Label HorizontalOptions="Center" FontSize="17" TextColor="Red" FontAttributes="Bold"  Text="{Binding UkupnoZaPlatiti,StringFormat='{0} KM'}" ></Label>
+                        </StackLayout>
+                        <StackLayout HorizontalOptions="FillAndExpand">
+                            <Entry HorizontalOptions="FillAndExpand"  Text="{Binding Adresa}" Placeholder="Adresa za dostavu" PlaceholderColor="MediumPurple" MaxLength="25" ></Entry>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                    <Button Margin="5"  Command="{Binding OcistiCommand}" HorizontalOptions="FillAndExpand"  BackgroundColor="PaleVioletRed" Text="Isprazni"></Button>
+                    <Button Margin="5" Command="{Binding ZavrsiCommand}"   HorizontalOptions="FillAndExpand" BackgroundColor="#42BE42"   Text="Plati"></Button>
+
+                </StackLayout>
+                
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

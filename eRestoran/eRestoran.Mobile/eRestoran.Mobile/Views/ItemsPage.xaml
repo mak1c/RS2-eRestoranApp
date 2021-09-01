@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:vm="clr-namespace:eRestoran.Mobile.ViewModels" xmlns:converters="clr-namespace:eRestoran.Mobile.Converters"
+             mc:Ignorable="d"
+             x:Class="eRestoran.Mobile.Views.ItemsPage"
+             Title="{Binding Title}"
+             x:Name="eRestoran">
+    <ContentPage.Resources>
+        <converters:ImageConverter x:Key="imgConv"></converters:ImageConverter>
+    </ContentPage.Resources>
+    <ContentPage.BindingContext>
+        <vm:ItemsViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+    <Frame CornerRadius="5"  OutlineColor="CadetBlue" Padding="10" Margin="10">
+        <StackLayout Padding="10" Orientation="Vertical" HorizontalOptions="Center">
+
+                <StackLayout Orientation="Horizontal"  HorizontalOptions="Center" >
+                    <Frame CornerRadius="40" 
+           Padding="0"
+           IsClippedToBounds="True">
+                        <Image Source="{Binding Slika,Converter={StaticResource imgConv}}" Aspect="Fill"  />
+                    </Frame>
+                </StackLayout>
+                    
+                <!--<Image></Image>-->
+                <Label Margin="8" Text="{Binding Naziv}"  VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="24" TextColor="BlueViolet"
+                                LineBreakMode="NoWrap" />
+
+                <Label Margin="8" Text="{Binding Adresa}" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="16" TextColor="Black"  
+                                LineBreakMode="NoWrap" />
+
+                <Label Margin="8" Text="{Binding Telefon}" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="16" TextColor="Black"  
+                                LineBreakMode="NoWrap" />
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Label Margin="8" Text="{Binding RadimoOd, StringFormat='{}{0:HH\\:mm}'}" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="16" TextColor="DarkSlateGray"  
+                                LineBreakMode="NoWrap" />
+                    <Label Margin="8" Text="-" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontAttributes="Italic" FontSize="16" TextColor="DarkSlateGray"  
+                                LineBreakMode="NoWrap" />
+                    <Label Margin="8" Text="{Binding RadimoDo, StringFormat='{}{0:HH\\:mm}'}" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="16" TextColor="DarkSlateGray"  
+                                LineBreakMode="NoWrap" />
+                </StackLayout>
+
+                <Label  VerticalTextAlignment="Center" HorizontalTextAlignment="Center" FontAttributes="Italic" FontSize="20" TextColor="BlueViolet"  Text="Hvala vam na ukazanom povjerenju!" />
+
+
+
+
+        </StackLayout>
+    </Frame>
+
+    </ContentPage.Content>
+   
+
+    <!--<RefreshView IsRefreshing="{Binding IsBusy, Mode=TwoWay}" Command="{Binding LoadItemsCommand}">
+        <CollectionView x:Name="ItemsCollectionView"
+                ItemsSource="{Binding Items}">
+            <d:CollectionView.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>First Item</x:String>
+                    <x:String>Second Item</x:String>
+                    <x:String>Third Item</x:String>
+                    <x:String>Fourth Item</x:String>
+                    <x:String>Fifth Item</x:String>
+                    <x:String>Sixth Item</x:String>
+                </x:Array>
+            </d:CollectionView.ItemsSource>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding Text}" 
+                                d:Text="{Binding .}"
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" />
+                        <Label Text="{Binding Description}" 
+                                d:Text="Item descripton"
+                                LineBreakMode="NoWrap"
+                                Style="{DynamicResource ListItemDetailTextStyle}"
+                                FontSize="13" />
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer NumberOfTapsRequired="1" Tapped="OnItemSelected"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>-->
+</ContentPage>

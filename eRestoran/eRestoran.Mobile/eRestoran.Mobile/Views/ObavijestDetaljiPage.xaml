@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="eRestoran.Mobile.Views.ObavijestDetaljiPage">
+    <ContentPage.Content>
+        <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Padding="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <!--<RowDefinition Height="50"></RowDefinition>-->
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="90*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Frame CornerRadius="10" OutlineColor="BlueViolet" Margin="15" Padding="25">
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" Grid.Column="0" Grid.Row="0" >
+                    <Label Padding="5" FontSize="18" HorizontalTextAlignment="Center"  FontAttributes="Bold" Text="{Binding Obavijest.Naslov}"></Label>
+                    <Label Padding="4" FontSize="15" HorizontalTextAlignment="Center"  Text="{Binding Obavijest.DatumObjave}"></Label>
+                    <Label Padding="10" LineBreakMode="CharacterWrap"  FontSize="12" HorizontalTextAlignment="Center" Text="{Binding Obavijest.Sadrzaj}"></Label>
+                </StackLayout>
+                </Frame>
+                </Grid>    
+    </ContentPage.Content>
+</ContentPage>
