@@ -25,3 +25,12 @@ C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Mo
 C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
 C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
 C:\MIGRACIJA RS2\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.deps.json
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\bin\Debug\netstandard2.0\eRestoran.Model.pdb
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csprojAssemblyReference.cache
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.csproj.CoreCompileInputs.cache
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfoInputs.cache
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.AssemblyInfo.cs
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.dll
+C:\Users\Rus\Desktop\RS2-eRestoranApp\eRestoran\eRestoran.Model\obj\Debug\netstandard2.0\eRestoran.Model.pdb
