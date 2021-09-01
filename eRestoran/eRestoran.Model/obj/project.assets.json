@@ -326,11 +326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
       "projectName": "eRestoran.Model",
-      "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+      "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
       "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
-      "outputPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\obj\\",
+      "outputPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

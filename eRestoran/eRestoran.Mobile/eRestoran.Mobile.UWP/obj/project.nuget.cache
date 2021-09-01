@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QjsuZ7FlOe1DJ/yBn0rTXOqQlRQccfJP4G+Yk+TooZ7Gj79Bgg+4qg5Lcf4To+MJJFBcg8Q3563/QRzWp6Q/Pg==",
+  "dgSpecHash": "EKud9Q1OXzUTjWMLFMLcFCF2KBjNlUOoTVTmdfFtq8kbYBHKAJachT0w7QwAYGcohabmJmwAVnkSdbmYwpvOog==",
   "success": true,
-  "projectFilePath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\eRestoran.Mobile.UWP.csproj",
+  "projectFilePath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\eRestoran.Mobile.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rus\\.nuget\\packages\\acr.userdialogs\\7.1.0.470\\acr.userdialogs.7.1.0.470.nupkg.sha512",
     "C:\\Users\\Rus\\.nuget\\packages\\coding4fun.toolkit.controls\\2.1.8\\coding4fun.toolkit.controls.2.1.8.nupkg.sha512",

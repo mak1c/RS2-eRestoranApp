@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RYpryB1LEv5W1gVQnvMjgiJ08RbcwhTn7P1K07jcl9hYX3ncLxSPs3tXirU70cqCmEaYFuQMhAjdpZgB36aYGQ==",
+  "dgSpecHash": "GK1eFqrEfpfZSWwMDgon/JAJX6o28cPYyTNSu1NaPcjNZK/b9T+MMxT/Zerl3jZdErXwjKS8+KoQxeh5nzJ/Yg==",
   "success": true,
-  "projectFilePath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.WebAPI\\eRestoran.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.WebAPI\\eRestoran.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rus\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Rus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

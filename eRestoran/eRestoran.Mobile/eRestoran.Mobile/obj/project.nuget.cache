@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uKL8kCyax366V/BX3oFXF01ScApNKTA2hMp8PD8bge8RQ28EW0nohZAKSJAYqetlcgnTP+jiMIlDna6BRXHesw==",
+  "dgSpecHash": "IGJAf37L4lgRJjJRSB/oZUadPyrIxAjMHB2dpvHSsL9F6h4+BcnDJ28JJkB95Bd8WMvlPC7fmxEk6HF1AH34tg==",
   "success": true,
-  "projectFilePath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj",
+  "projectFilePath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rus\\.nuget\\packages\\acr.userdialogs\\7.1.0.470\\acr.userdialogs.7.1.0.470.nupkg.sha512",
     "C:\\Users\\Rus\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",

@@ -10384,11 +10384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\eRestoran.Mobile.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\eRestoran.Mobile.UWP.csproj",
       "projectName": "eRestoran.Mobile.UWP",
-      "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\eRestoran.Mobile.UWP.csproj",
+      "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\eRestoran.Mobile.UWP.csproj",
       "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
-      "outputPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -10410,8 +10410,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj": {
-              "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj"
+            "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj": {
+              "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj"
             }
           }
         }

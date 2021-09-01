@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQYLKglZKHEsEPLHz7W3Jhg9GWeopncPC3Gqqap5Q0F4P/GjHLqH/HXVhzcPwFbbnG7gV5oOkJPlHfit17Gufg==",
+  "dgSpecHash": "+p3hP9EhkdUQRyrYwYCVQ2LLMwc8hJSGcJZ0J35aQVHinqsiD7PE+2YCS7qxZrko/jBplWK4IiP0r4F+yYVE1w==",
   "success": true,
-  "projectFilePath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+  "projectFilePath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

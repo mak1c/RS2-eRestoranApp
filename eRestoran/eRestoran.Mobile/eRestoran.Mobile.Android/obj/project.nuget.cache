@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ipV/s4O+Swq1hyQpbLUlpzKVcLeFwiKtv9X3+wjdK/roKLKX/JfanA1xtpGFbk4i4O31oIwRyhLq2wOKYurlnw==",
+  "dgSpecHash": "d8BlHEOf9VrNec0KZvBOHFaQ93MKumaSaOAXOJAuFCHDYhKelfmcycdYQMk3DxLs99cceXVLdFViSqFz3OZEzg==",
   "success": true,
-  "projectFilePath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj",
+  "projectFilePath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rus\\.nuget\\packages\\acr.userdialogs\\7.1.0.470\\acr.userdialogs.7.1.0.470.nupkg.sha512",
     "C:\\Users\\Rus\\.nuget\\packages\\andhud\\1.4.2\\andhud.1.4.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj": {}
+    "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj": {}
   },
   "projects": {
-    "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj": {
+    "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj",
         "projectName": "eRestoran.Mobile.Android",
-        "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj",
+        "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\eRestoran.Mobile.Android.csproj",
         "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
-        "outputPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\obj\\",
+        "outputPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj": {
-                "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj"
+              "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj": {
+                "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj": {
+    "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj",
+        "projectUniqueName": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj",
         "projectName": "eRestoran.Mobile",
-        "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj",
+        "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\eRestoran.Mobile.csproj",
         "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
-        "outputPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\obj\\",
+        "outputPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Mobile\\eRestoran.Mobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
-                "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj"
+              "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
+                "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
+    "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
         "projectName": "eRestoran.Model",
-        "projectPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
+        "projectPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\eRestoran.Model.csproj",
         "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
-        "outputPath": "C:\\MIGRACIJA RS2\\eRestoran\\eRestoran.Model\\obj\\",
+        "outputPath": "C:\\Users\\Rus\\Desktop\\RS2-eRestoranApp\\eRestoran\\eRestoran.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
